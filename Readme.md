@@ -1,5 +1,5 @@
-#Tranning HTML5 and CSS3
+# Tranning HTML5 and CSS3
 | ----------- | ----------- |
-#Content
+# Content
 * Download/Install
 * How to use 
