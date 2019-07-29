@@ -13,7 +13,11 @@ header{
 	flex-direction: row;
 	margin-top: 41px;
 }
-
+.header__menu-left img{
+	width: 60px;
+	height: 60px;
+	padding-top: 7px;
+}
 .header__menu-text{
 	margin-left: 10px;
 	padding-top: 10px;

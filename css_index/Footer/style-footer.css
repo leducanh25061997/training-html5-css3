@@ -3,7 +3,9 @@
 	display: flex;
 	display: row;
 	margin: 0 130px;
+	margin-top
 }
+
 .footer__first .footer__first-logo{
 	margin-bottom: 26px;
 	width: 360px;
