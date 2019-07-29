@@ -1,0 +1,23 @@
+.header__banner{
+	margin: 70px 130px 0 130px;
+}
+.header__banner-text{
+	position: relative;
+	z-index: 1;
+}
+.header__banner .text-p{
+	padding: 34px 0 58px 0;
+	letter-spacing: 0.3px;
+}
+.header__banner-btn{
+	padding-bottom: 126px;
+}
+.header__banner-btn button:nth-child(2){
+	background:  #FFFFFF;
+}
+.header__banner-img{
+	position: absolute;
+	top: 201px;
+	left: 555px;
+	z-index: 0;
+}

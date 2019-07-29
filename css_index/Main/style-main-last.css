@@ -1,0 +1,28 @@
+.main__last{
+	display: flex;
+	flex-direction: row;
+	background: #F4F5F7;
+}
+.main__last .main__last-img{
+	margin-right: 122px;
+	margin-left: 224px;
+	margin: 73px 122px 73px 224px;
+}
+.main__last .main__last-text{
+	margin-top: 106px;
+	width: 555px;
+}
+.main__last .main__last-text h1{
+	padding-top: 10px;
+	padding-bottom: 12px;
+}
+.main__last .main__last-text input{
+	width: 385px;
+	height: 45px;
+	font-size: 18px;
+	line-height: 13px;
+	line-height: 13px;
+	background: #FFFFFF;
+	border: 1px solid rgba(43, 41, 45, 0.2);
+	margin: 26px 0 10px 0;
+}

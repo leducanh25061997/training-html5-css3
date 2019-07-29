@@ -1,0 +1,44 @@
+.main__logo{
+	text-align: center;
+	mix-blend-mode: normal;
+	background: rgb(211, 233, 240, 0.3);
+}
+.main__logo .main__logo-title img{
+	padding-top: 37px;
+	padding-bottom: 88px;
+}
+.main__logo .main__logo-title p{
+	padding: 28px 325px 34px 325px;
+}
+.main__logo .main__logo-text{
+	font-size: 16px;
+	line-height: 24px;
+}
+.main__logo .main__logo-icon{
+	display: flex;
+	justify-content: center;
+	margin-top: 38px;
+	padding-bottom: 82px;
+}
+.main__logo .main__logo-icon .item{
+	text-align: center;
+	border-radius: 50%;
+	width: 8px;
+	height: 8px;
+	background: rgba(212, 214, 210 , 0.3);
+	mix-blend-mode: normal;
+}
+.main__logo .main__logo-icon .item:nth-child(1){
+	background: #3142C5;
+}
+.main__logo .main__logo-icon .item:nth-child(2){
+	margin: 0 13px;
+}
+.main__logo .main__logo-img{
+	position: relative;
+}
+.main__logo .main__logo-img img{
+	position: absolute;
+	right: 0;
+	bottom: 0px;
+}
